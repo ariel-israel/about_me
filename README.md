@@ -1,5 +1,5 @@
 # About Me
-My name is Ariel Israel. Welcome to my Github profile.
+Hi, my name is Ariel Israel and welcome to my Github account.
 
 I am currently enrolled at Georgia Tech's Master of Science in Analytics program.
 I am passionate about working with data and discovering insights to solve problems.
